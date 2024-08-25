@@ -12,7 +12,7 @@ TCP Flood: Выполнение атаки TCP Flood для перегрузки
 Установка и запуск
 Клонируйте репозиторий:
 
-git clone https://github.com/ваш-пользователь/название-репозитория.git
+git clone https://github.com/XD587-dos/teraniistorm/tree/main
 cd название-репозитория
 Установите зависимости:
 
